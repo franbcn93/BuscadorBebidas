@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BuscadorBebidas/static/css/main.754c01ca.chunk.css",
-    "main.js": "/BuscadorBebidas/static/js/main.b822b33e.chunk.js",
-    "main.js.map": "/BuscadorBebidas/static/js/main.b822b33e.chunk.js.map",
+    "main.js": "/BuscadorBebidas/static/js/main.de163485.chunk.js",
+    "main.js.map": "/BuscadorBebidas/static/js/main.de163485.chunk.js.map",
     "runtime-main.js": "/BuscadorBebidas/static/js/runtime-main.fb962ff6.js",
     "runtime-main.js.map": "/BuscadorBebidas/static/js/runtime-main.fb962ff6.js.map",
     "static/js/2.bd054536.chunk.js": "/BuscadorBebidas/static/js/2.bd054536.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fb962ff6.js",
     "static/js/2.bd054536.chunk.js",
     "static/css/main.754c01ca.chunk.css",
-    "static/js/main.b822b33e.chunk.js"
+    "static/js/main.de163485.chunk.js"
   ]
 }
